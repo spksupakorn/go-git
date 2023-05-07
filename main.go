@@ -7,5 +7,5 @@ import "fmt"
 //3 push
 
 func main() {
-	fmt.Println("Hello Git")
+	fmt.Println(("Hello Github"))
 }
